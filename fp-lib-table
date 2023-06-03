@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "$pcb_stencil")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+  (lib (name "$pcb_stencil_imports")(type "KiCad")(uri "${KIPRJMOD}/import-footprints")(options "")(descr ""))
+)
